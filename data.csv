@@ -1,4 +1,4 @@
-Item, Value
+paper_id, code
 1, SMWA
 2, SMWA
 3, SMWA
@@ -11,3 +11,5 @@ Item, Value
 8, BQRE
 9, MNEM
 9, BNAA
+10, ENTW
+11, RLPF
