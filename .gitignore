@@ -130,3 +130,6 @@ dmypy.json
 
 # Do not add apikeys to git repo
 *.apikey
+
+# Do not store VS Code project files
+*.code-workspace
