@@ -1,9 +1,19 @@
+
 # Just how random these codes are
 
-Just started to wonder the randomness of the codes given in candy papers.
+Just started to wonder the randomness of the codes given in candy papers. This
+is as good as any excuse to study new things as any. The work is done in
+[Jupyter Notebook](howrandom.ipynb)
 
-![Golden Candy Paper](candypaper.jpg)
+## Installation Requirements
 
-The source of the data is candy papers collected from bags of candies:
+This work is done on Ubuntu 18.04. The following isntructions are tested
+only in Ubuntu 18.04, but might work in other environments also.
 
-[data.csv](data.csv)
+To install Jupyter Notebook:
+
+    pip3 install --user jupyter
+
+To run cd into this git repo directory and
+
+    jupyter notebook
