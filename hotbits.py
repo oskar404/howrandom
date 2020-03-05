@@ -5,7 +5,7 @@ from os import path
 
 
 API_KEY_FILE = '.hotbits.apikey'
-RESULT_FILE = 'randbits.bin'
+RESULT_FILE = 'hotbits.bin'
 
 
 def get_api_key(file):
