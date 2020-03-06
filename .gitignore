@@ -133,3 +133,10 @@ dmypy.json
 
 # Do not store VS Code project files
 *.code-workspace
+
+# Ignore generated files
+rand
+
+# Ignore core dumps
+core
+vgcore.*
